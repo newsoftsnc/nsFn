@@ -1,0 +1,19 @@
+{
+    "name": "newsoftsnc/nsfn", //naming our package
+    "description": "Funzioni accessorie", // Description about package
+    "type": "package", //Since it’s a package  we define its type package
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [{ //Your information
+        "name": "Newsoft", 
+        "email": "info@newsoftonline.it"
+    }],
+    "autoload": {
+        "psr-4": {
+            "NsFn\\": "NsFn/"
+        }
+    },
+    "version": "1.0.0", //Version of the package
+    "minimum-stability": "dev" //Stability
+}
