@@ -1,6 +1,6 @@
 <?php
 
-namespace NsFn;
+namespace nsfn;
 
 
 // Funzioni Pubbliche

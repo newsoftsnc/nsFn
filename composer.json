@@ -10,7 +10,7 @@
 	],
 	"autoload" : {
 		"psr-4" : {
-			"NsFn\\" : "src/"
+			"nsfn\\" : "src/"
 		}
 	},
 	"version" : "1.0.0",
