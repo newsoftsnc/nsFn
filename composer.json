@@ -1,17 +1,18 @@
 {
-    "name": "newsoftsnc/nsfn",
-    "description": "Funzioni accessorie",
-    "type": "package",
-    "license": "MIT",
-    "authors": [{
-        "name": "Newsoft", 
-        "email": "info@newsoftonline.it"
-    }],
-    "autoload": {
-        "psr-4": {
-            "NsFn\\": "NsFn/"
-        }
-    },
-    "version": "1.0.0",
-    "minimum-stability": "dev"
+	"name" : "newsoftsnc/nsfn",
+	"description" : "Funzioni accessorie",
+	"type" : "package",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Newsoft",
+			"email" : "info@newsoftonline.it"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"NsFn\\" : "src/"
+		}
+	},
+	"version" : "1.0.0",
+	"minimum-stability" : "dev"
 }
